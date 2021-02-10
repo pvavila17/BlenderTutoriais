@@ -1,5 +1,4 @@
-# Tutoriais Blender 
-## Tutoriais de texturas estilizadas no Blender 2.9
+# Tutoriais de texturas estilizadas no Blender 2.9
 
 
 Esses tutorias explicam de maneira detalhada como 
